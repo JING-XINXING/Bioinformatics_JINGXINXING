@@ -1,5 +1,5 @@
 ---
-description: 2021年之前的生物信息学相关资源收集和分类，2021年继续，生信修炼，生死突击！
+description: 2021年之前的生物信息学相关资源收集和分类
 ---
 
 # 1. Bioinformatics Database and Analysis Methods about Proteomics
