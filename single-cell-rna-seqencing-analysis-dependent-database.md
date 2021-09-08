@@ -30,8 +30,6 @@
 
 ## Seurat
 
-[https://satijalab.org/seurat/](https://satijalab.org/seurat/)
-
 
 
 
