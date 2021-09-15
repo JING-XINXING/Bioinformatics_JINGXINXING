@@ -6,24 +6,29 @@ description: 2021年之前的生物信息学相关资源收集和分类
 
 生物信息分析工具整理2019年- 生信软件工具数据库搜集库
 
-Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](https://www.hsls.pitt.edu/obrc/)
+Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](https://www.hsls.pitt.edu/obrc/) 
 
-国家生物信息中心[https://bigd.big.ac.cn/](https://bigd.big.ac.cn/)
+国家生物信息中心[https://bigd.big.ac.cn/](https://bigd.big.ac.cn/) 
 
 国家基因数据库 [https://db.cngb.org/](https://db.cngb.org/)
 
-一、蛋白质、蛋白组学数据处理、展示分析相关的软件收集
+一、蛋白质、蛋白组学数据处理、展示分析相关的软件收集 
 
-1. [http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html](http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html)
-2. [http://proteowizard.sourceforge.net/download.html](http://proteowizard.sourceforge.net/download.html)
-3. [http://www.gpmaw.com/html/downloads.html](http://www.gpmaw.com/html/downloads.html)
-4. TMT [http://msstats.org/msstatstmt/](http://msstats.org/msstatstmt/) [http://msstats.org/wp-content/uploads/2018/12/MSstatsTMT.html](http://msstats.org/wp-content/uploads/2018/12/MSstatsTMT.html)
-5. 金豆系统 [http://www.omicsbean.cn/login/](http://www.omicsbean.cn/login/)
-6. venn在线工具
+1. [http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html](http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html) 
+
+2. [http://proteowizard.sourceforge.net/download.html](http://proteowizard.sourceforge.net/download.html) 
+
+3. [http://www.gpmaw.com/html/downloads.html](http://www.gpmaw.com/html/downloads.html) 
+
+4. TMT [http://msstats.org/msstatstmt/](http://msstats.org/msstatstmt/) [http://msstats.org/wp-content/uploads/2018/12/MSstatsTMT.html](http://msstats.org/wp-content/uploads/2018/12/MSstatsTMT.html) 
+
+5. 金豆系统 [http://www.omicsbean.cn/login/](http://www.omicsbean.cn/login/) 
+
+6. venn在线工具 
 
 （1）[http://jvenn.toulouse.inra.fr/app/example.html?tdsourcetag=s\_pctim\_aiomsg](http://jvenn.toulouse.inra.fr/app/example.html?tdsourcetag=s_pctim_aiomsg)
 
-（2）[http://bioinfogp.cnb.csic.es/tools/venny/index.html?tdsourcetag=s\_pctim\_aiomsg](http://bioinfogp.cnb.csic.es/tools/venny/index.html?tdsourcetag=s_pctim_aiomsg)
+（2）[http://bioinfogp.cnb.csic.es/tools/venny/index.html?tdsourcetag=s\_pctim\_aiomsg](http://bioinfogp.cnb.csic.es/tools/venny/index.html?tdsourcetag=s_pctim_aiomsg) 
 
 （3）[http://bioinformatics.psb.ugent.be/webtools/Venn/](http://bioinformatics.psb.ugent.be/webtools/Venn/)
 
@@ -37,7 +42,7 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 10.蛋白磷酸化位点Motif分析 [https://www.phosphosite.org/homeAction.action](https://www.phosphosite.org/homeAction.action)
 
-11.亚细胞定位
+11.亚细胞定位 
 
 [http://geneontology.org/](http://geneontology.org/) [https://www.hsls.pitt.edu/obrc/index.php?page=localization\_targeting](https://www.hsls.pitt.edu/obrc/index.php?page=localization_targeting) [http://www.psort.org/](http://www.psort.org/) [https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/subcellular/](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/subcellular/) [http://www.geneinfinity.org/sp/sp\_proteinloc.html](http://www.geneinfinity.org/sp/sp_proteinloc.html)
 
@@ -65,17 +70,17 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 15.Pfam scan [https://www.ebi.ac.uk/Tools/pfa/pfamscan/](https://www.ebi.ac.uk/Tools/pfa/pfamscan/)
 
-16.Jalview [http://www.jalview.org/](http://www.jalview.org/)
+16.Jalview [http://www.jalview.org/](http://www.jalview.org/) 
 
 17生物信息学Bioinformatics and Functional Genomics 3rd Edition [http://www.bioinfbook.org/php/](http://www.bioinfbook.org/php/)
 
-18.生物大分子三维结构实验数据库www.pdb.org；
+18.生物大分子三维结构实验数据库www.pdb.org； 
 
 19.欧洲生物信息学中心\(EBI\)http:www.ebi.ac.uk/clustalw/; [http://rcsb.org/pdb/101/](http://rcsb.org/pdb/101/); [http://www.sbc.su.se/](http://www.sbc.su.se/); \(隶属于瑞典斯德哥尔摩大学生物信息学中心\) [http://www.basic.northwestern.edu/biotools/](http://www.basic.northwestern.edu/biotools/); [http://www.protocol-online.org](http://www.protocol-online.org); [http://expasy.hcuge.ch\(双向电泳数据库\)；](http://expasy.hcuge.ch%28双向电泳数据库%29；) “据RNA的一级结构，预测其二级结构”相关软件：RNA Draw&RNA Structure 相关网站[http://rna.tbi.univie.ac.at/cgi-bin/RNAfold.cgi](http://rna.tbi.univie.ac.at/cgi-bin/RNAfold.cgi)
 
 20.蛋白序列逆翻译为核苷酸序列：emboss\_backtranseq [https://www.ebi.ac.uk/Tools/st/emboss\_backtranseq/](https://www.ebi.ac.uk/Tools/st/emboss_backtranseq/)
 
-21.MetaboAnalyst在线分析工具 [https://www.metaboanalyst.ca/MetaboAnalyst/ModuleView.xhtml](https://www.metaboanalyst.ca/MetaboAnalyst/ModuleView.xhtml)
+21.MetaboAnalyst在线分析工具 [https://www.metaboanalyst.ca/MetaboAnalyst/ModuleView.xhtml](https://www.metaboanalyst.ca/MetaboAnalyst/ModuleView.xhtml) 
 
 22.泛素化数据库 [http://iuucd.biocuckoo.org/](http://iuucd.biocuckoo.org/)
 
@@ -87,10 +92,12 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
    [http://genome.ucsc.edu/](http://genome.ucsc.edu/)
 
-三、转录组学数据处理、可视化的相关软件收集
+三、转录组学数据处理、可视化的相关软件收集 
 
-1. GSEA分析 [http://software.broadinstitute.org/gsea/index.jsp](http://software.broadinstitute.org/gsea/index.jsp)
-2. GenePattern [http://software.broadinstitute.org/cancer/software/genepattern/](http://software.broadinstitute.org/cancer/software/genepattern/)
+1. GSEA分析 [http://software.broadinstitute.org/gsea/index.jsp](http://software.broadinstitute.org/gsea/index.jsp) 
+
+2. GenePattern [http://software.broadinstitute.org/cancer/software/genepattern/](http://software.broadinstitute.org/cancer/software/genepattern/) 
+
 3. Reactome [http://reactome.ncpsb.org/](http://reactome.ncpsb.org/)
 
 4.转录因子 [https://cloud.tencent.com/developer/article/1380035](https://cloud.tencent.com/developer/article/1380035)
@@ -101,25 +108,25 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 [http://gene-regulation.com/pub/databases.html\#transfac](http://gene-regulation.com/pub/databases.html#transfac)
 
-7.富集分析 [http://amp.pharm.mssm.edu/Enrichr/](http://amp.pharm.mssm.edu/Enrichr/)
+7.富集分析 [http://amp.pharm.mssm.edu/Enrichr/](http://amp.pharm.mssm.edu/Enrichr/) 
 
 8.Mutational Signatures \(v3.1 - June 2020\) [https://cancer.sanger.ac.uk/cosmic/signatures](https://cancer.sanger.ac.uk/cosmic/signatures)
 
-9.PlnTFDB \(3.0\) [http://plntfdb.bio.uni-potsdam.de/v3.0/](http://plntfdb.bio.uni-potsdam.de/v3.0/)
+9.PlnTFDB \(3.0\) [http://plntfdb.bio.uni-potsdam.de/v3.0/](http://plntfdb.bio.uni-potsdam.de/v3.0/) 
 
-10.植物转录因子数据库 [http://planttfdb.gao-lab.org/](http://planttfdb.gao-lab.org/) [http://plntfdb.bio.uni-potsdam.de/v3.0/](http://plntfdb.bio.uni-potsdam.de/v3.0/)
+10.植物转录因子数据库 [http://planttfdb.gao-lab.org/](http://planttfdb.gao-lab.org/) [http://plntfdb.bio.uni-potsdam.de/v3.0/](http://plntfdb.bio.uni-potsdam.de/v3.0/) 
 
-11.动物转录因子数据库 [http://bioinfo.life.hust.edu.cn/AnimalTFDB/\#!/](http://bioinfo.life.hust.edu.cn/AnimalTFDB/#!/)
+11.动物转录因子数据库 [http://bioinfo.life.hust.edu.cn/AnimalTFDB/\#!/](http://bioinfo.life.hust.edu.cn/AnimalTFDB/#!/) 
 
 12.真菌转录因子 [http://ftfd.snu.ac.kr/download.php](http://ftfd.snu.ac.kr/download.php)
 
-13.genepattern [https://www.genepattern.org/](https://www.genepattern.org/)
+13.genepattern [https://www.genepattern.org/](https://www.genepattern.org/) 
 
 14.hTFtarget [http://bioinfo.life.hust.edu.cn/hTFtarget\#!/](http://bioinfo.life.hust.edu.cn/hTFtarget#!/)
 
-四、全组学研究
+四、全组学研究 
 
-1.OmicsNet [https://www.omicsnet.ca/](https://www.omicsnet.ca/)
+1.OmicsNet [https://www.omicsnet.ca/](https://www.omicsnet.ca/) 
 
 2.Omics Net [https://www.omicsnet.ca/faces/home.xhtml](https://www.omicsnet.ca/faces/home.xhtml)
 
@@ -131,17 +138,17 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 6.Pathway Tools [http://bioinformatics.ai.sri.com/ptools/](http://bioinformatics.ai.sri.com/ptools/)
 
-7.OMIM [http://www.ncbi.nlm.nih.gov/omim](http://www.ncbi.nlm.nih.gov/omim)
+7.OMIM [http://www.ncbi.nlm.nih.gov/omim](http://www.ncbi.nlm.nih.gov/omim) 
 
-8.KEGG DISEASE [http://www.genome.jp/kegg/disease/](http://www.genome.jp/kegg/disease/)
+8.KEGG DISEASE [http://www.genome.jp/kegg/disease/](http://www.genome.jp/kegg/disease/) 
 
-9.FunDO [http://django.nubic.northwestern.edu/fundo/](http://django.nubic.northwestern.edu/fundo/)
+9.FunDO [http://django.nubic.northwestern.edu/fundo/](http://django.nubic.northwestern.edu/fundo/) 
 
-10.GAD [http://geneticassociationdb.nih.gov/](http://geneticassociationdb.nih.gov/)
+10.GAD [http://geneticassociationdb.nih.gov/](http://geneticassociationdb.nih.gov/) 
 
 11.NHGRI [http://www.genome.gov/gwastudies/](http://www.genome.gov/gwastudies/)
 
-四、物种进化树信息
+四、物种进化树信息 
 
 1.Lifemap [http://lifemap-ncbi.univ-lyon1.fr/](http://lifemap-ncbi.univ-lyon1.fr/)
 
@@ -151,99 +158,97 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 4.phyloXML [http://www.phyloxml.org/](http://www.phyloxml.org/)
 
-5.Tree of Life [http://get.carrotsearch.com/foamtree/demo/demos/large.html](http://get.carrotsearch.com/foamtree/demo/demos/large.html)
+5.Tree of Life [http://get.carrotsearch.com/foamtree/demo/demos/large.html](http://get.carrotsearch.com/foamtree/demo/demos/large.html) 
 
-6.LPSN [https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica](https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica)
+6.LPSN [https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica](https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica) 
 
-1. [https://bacdive.dsmz.de/strain/132995](https://bacdive.dsmz.de/strain/132995) 
+7. [https://bacdive.dsmz.de/strain/132995](https://bacdive.dsmz.de/strain/132995) 
 
-五、文献、SCI文献IF查询
+五、文献、SCI文献IF查询 
 
-1.[https://www.medsci.cn/](https://www.medsci.cn/)
+1.[https://www.medsci.cn/](https://www.medsci.cn/) 
 
-2.蛋白质组学相关的杂志
+2.蛋白质组学相关的杂志 
 
-（1）[https://www.mcponline.org/](https://www.mcponline.org/)
+（1）[https://www.mcponline.org/](https://www.mcponline.org/) 
 
-（2）[https://www.sciencedirect.com/journal/journal-of-proteomics/](https://www.sciencedirect.com/journal/journal-of-proteomics/)
+（2）[https://www.sciencedirect.com/journal/journal-of-proteomics/](https://www.sciencedirect.com/journal/journal-of-proteomics/) 
 
-（3）[https://www.proteomics.com.au/](https://www.proteomics.com.au/)
+（3）[https://www.proteomics.com.au/](https://www.proteomics.com.au/) 
 
-（4）[https://www.nature.com/subjects/proteomics](https://www.nature.com/subjects/proteomics)
+（4）[https://www.nature.com/subjects/proteomics](https://www.nature.com/subjects/proteomics) 
 
 （5）[https://pubs.acs.org/journal/jprobs](https://pubs.acs.org/journal/jprobs)
 
 3.scihub [https://vk.com/sci\_hub](https://vk.com/sci_hub)
 
-4.GeenMedical [https://www.geenmedical.com/](https://www.geenmedical.com/)
+4.GeenMedical [https://www.geenmedical.com/](https://www.geenmedical.com/) 
 
-5.谷粉学术 \[图片\][https://gfsoso.99lb.net/sci-hub.html](https://gfsoso.99lb.net/sci-hub.html)
+5.谷粉学术 \[图片\][https://gfsoso.99lb.net/sci-hub.html](https://gfsoso.99lb.net/sci-hub.html) 
 
 6.生信相关期刊杂志 [https://academic.oup.com/bib](https://academic.oup.com/bib)
 
-六、药理、生物制药
+六、药理、生物制药 
 
 1.PHARMACOLOGY [https://www.guidetopharmacology.org/](https://www.guidetopharmacology.org/)
 
-七、公开课、学习资源
+七、公开课、学习资源 
 
-1.基因课 [http://genek-pc.duanshu.com/](http://genek-pc.duanshu.com/)
+1.基因课 [http://genek-pc.duanshu.com/](http://genek-pc.duanshu.com/) 
 
 2.生物谷 [http://xy.bioon.com/](http://xy.bioon.com/)
 
-八、宏基因组、转录组和蛋白质组
+八、宏基因组、转录组和蛋白质组 
 
-1.MEGAN [http://megan.informatik.uni-tuebingen.de/](http://megan.informatik.uni-tuebingen.de/)
+1.MEGAN [http://megan.informatik.uni-tuebingen.de/](http://megan.informatik.uni-tuebingen.de/) 
 
-2.PFAM ftp://ftp.ebi.ac.uk/pub/databases/Pfam/releases/Pfam33.1/
+2.PFAM ftp://ftp.ebi.ac.uk/pub/databases/Pfam/releases/Pfam33.1/ 
 
-3.RDP [http://rdp.cme.msu.edu/](http://rdp.cme.msu.edu/)
+3.RDP [http://rdp.cme.msu.edu/](http://rdp.cme.msu.edu/) 
 
-4.EMP [https://press.igsb.anl.gov/earthmicrobiome/](https://press.igsb.anl.gov/earthmicrobiome/)
+4.EMP [https://press.igsb.anl.gov/earthmicrobiome/](https://press.igsb.anl.gov/earthmicrobiome/) 
 
-5.silva [https://www.arb-silva.de/](https://www.arb-silva.de/)
+5.silva [https://www.arb-silva.de/](https://www.arb-silva.de/) 
 
-6.MG-RAST [http://www.mg-rast.org/](http://www.mg-rast.org/)
+6.MG-RAST [http://www.mg-rast.org/](http://www.mg-rast.org/) 
 
-7.microbiome [https://db.cngb.org/microbiome/](https://db.cngb.org/microbiome/)
+7.microbiome [https://db.cngb.org/microbiome/](https://db.cngb.org/microbiome/) 
 
-8.HOMPPD [http://www.homd.org/](http://www.homd.org/)
+8.HOMPPD [http://www.homd.org/](http://www.homd.org/) 
 
 9.tree [https://yulab-smu.top/treedata-book/](https://yulab-smu.top/treedata-book/)
 
-九、酶学相关
+九、酶学相关 
 
 1.ExPaSy [https://enzyme.expasy.org/enzyme-search-ec.html](https://enzyme.expasy.org/enzyme-search-ec.html)
 
-2.Brenda-enzymes [https://www.brenda-enzymes.org/](https://www.brenda-enzymes.org/)
+十、Biomarker数据库 
 
-十、Biomarker数据库
+1.[https://gobiomdbplus.com/](https://gobiomdbplus.com/) 
 
-1.[https://gobiomdbplus.com/](https://gobiomdbplus.com/)
+2.[https://www.criver.com/resources/biomarker-database](https://www.criver.com/resources/biomarker-database) 
 
-2.[https://www.criver.com/resources/biomarker-database](https://www.criver.com/resources/biomarker-database)
-
-3.[http://ibi.imim.es/disease-related-biomarker-database/](http://ibi.imim.es/disease-related-biomarker-database/)
+3.[http://ibi.imim.es/disease-related-biomarker-database/](http://ibi.imim.es/disease-related-biomarker-database/) 
 
 4.[https://www.biomarkerbase.com/](https://www.biomarkerbase.com/)
 
-十一、物种数据库
+十一、物种数据库 
 
-1.Populocrescentia ammophilae [https://www.italianmicrofungi.org/pleosporales/phaeosphaeriaceae/populocrescentia/populocrescentia-ammophilae.html](https://www.italianmicrofungi.org/pleosporales/phaeosphaeriaceae/populocrescentia/populocrescentia-ammophilae.html)
+1.Populocrescentia ammophilae [https://www.italianmicrofungi.org/pleosporales/phaeosphaeriaceae/populocrescentia/populocrescentia-ammophilae.html](https://www.italianmicrofungi.org/pleosporales/phaeosphaeriaceae/populocrescentia/populocrescentia-ammophilae.html) 
 
-2.mycobank [https://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=31817&TableKey=14682616000000067&Rec=31817](https://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=31817&TableKey=14682616000000067&Rec=31817)
+2.mycobank [https://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=31817&TableKey=14682616000000067&Rec=31817](https://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=31817&TableKey=14682616000000067&Rec=31817) 
 
-3.GBIF [https://www.gbif.org/species/3485773](https://www.gbif.org/species/3485773)
+3.GBIF [https://www.gbif.org/species/3485773](https://www.gbif.org/species/3485773) 
 
-4.MyCoCosm [https://mycocosm.jgi.doe.gov/Anasp1/Anasp1.info.html](https://mycocosm.jgi.doe.gov/Anasp1/Anasp1.info.html)
+4.MyCoCosm [https://mycocosm.jgi.doe.gov/Anasp1/Anasp1.info.html](https://mycocosm.jgi.doe.gov/Anasp1/Anasp1.info.html) 
 
-5.NBN Atlas [https://nbnatlas.org/about-nbn-atlas/](https://nbnatlas.org/about-nbn-atlas/)
+5.NBN Atlas [https://nbnatlas.org/about-nbn-atlas/](https://nbnatlas.org/about-nbn-atlas/) 
 
-6.微生物分类权威查询系统 [http://classesgate.com/](http://classesgate.com/)
+6.微生物分类权威查询系统 [http://classesgate.com/](http://classesgate.com/) 
 
 7.芝麻数据库 [http://www.sesame-bioinfo.org/Sinbase2.0/index.html](http://www.sesame-bioinfo.org/Sinbase2.0/index.html)
 
-十二、生信分析流程 [https://www.commonwl.org/](https://www.commonwl.org/)
+十二、生信分析流程 [https://www.commonwl.org/](https://www.commonwl.org/) 
 
 Snakemake Nextflow BigDataScript Ruffus bpipe Pegasus Queue Toil Luigi Galaxy Taverna DNAnexus SevenBridges Arvados Agave
 

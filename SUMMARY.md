@@ -13,4 +13,5 @@
 * [11. Bioinformatics Analysis Software and Principle](11.bioinformatics-analysis-software.md)
 * [12. Tumor and Germline Analysis Methods、Databases、Software](12.-tumor-and-germline-analysis-methods-databases-software.md)
 * [13. Life\_Sciences Literature](13.-life_sciences-literature.md)
+* [14. Plant Specific Analysis Methods, Tools and Database](14.-plant-specific-analysis-methods-tools-and-database.md)
 
