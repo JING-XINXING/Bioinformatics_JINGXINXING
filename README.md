@@ -171,7 +171,11 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 6.LPSN [https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica](https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica)
 
-1. [https://bacdive.dsmz.de/strain/132995](https://bacdive.dsmz.de/strain/132995) 
+7.bacdive [https://bacdive.dsmz.de/strain/132995](https://bacdive.dsmz.de/strain/132995) 
+
+8.Orthodb [https://www.orthodb.org/](https://www.orthodb.org/)
+
+9.TreeFam [https://www.ebi.ac.uk/services/teams/treefam](https://www.ebi.ac.uk/services/teams/treefam)
 
 五、文献、SCI文献IF查询
 
