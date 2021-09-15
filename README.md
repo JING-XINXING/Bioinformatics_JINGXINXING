@@ -83,6 +83,18 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 24.Pantherdb [http://www.pantherdb.org/](http://www.pantherdb.org/)
 
+25.PIR [https://proteininformationresource.org/pirsf/](https://proteininformationresource.org/pirsf/)
+
+26.PRINTS [www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/](www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/)
+
+27.SUPFAM [http://supfam.mbu.iisc.ernet.in/](http://supfam.mbu.iisc.ernet.in/)
+
+28.InParanoid [https://inparanoid.sbc.su.se/cgi-bin/index.cgi](https://inparanoid.sbc.su.se/cgi-bin/index.cgi)
+
+29.OMA [https://omabrowser.org/oma/home/](https://omabrowser.org/oma/home/)
+
+
+
 二、基因组学数据处理、可视化的相关软件收集 1. 灭绝生物的信息数据库 [https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=extinct](https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=extinct)
 
 1. [http://plants.ensembl.org/Brassica\_rapa/Info/Index](http://plants.ensembl.org/Brassica_rapa/Info/Index)
@@ -220,6 +232,8 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 1.ExPaSy [https://enzyme.expasy.org/enzyme-search-ec.html](https://enzyme.expasy.org/enzyme-search-ec.html)
 
 2.Brenda-enzymes [https://www.brenda-enzymes.org/](https://www.brenda-enzymes.org/)
+
+3.SFLD [http://sfld.rbvi.ucsf.edu/archive/django/index.html](http://sfld.rbvi.ucsf.edu/archive/django/index.html)
 
 十、Biomarker数据库
 
