@@ -93,8 +93,6 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 29.OMA [https://omabrowser.org/oma/home/](https://omabrowser.org/oma/home/)
 
-
-
 二、基因组学数据处理、可视化的相关软件收集 1. 灭绝生物的信息数据库 [https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=extinct](https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=extinct)
 
 1. [http://plants.ensembl.org/Brassica\_rapa/Info/Index](http://plants.ensembl.org/Brassica_rapa/Info/Index)
