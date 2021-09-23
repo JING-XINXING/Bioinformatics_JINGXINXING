@@ -1,9 +1,8 @@
----
-<Bioinformatics_JINGXINXING>
-Description: 2021年之前的生物信息学相关资源收集和分类
----
-
 # 1. Bioinformatics Database and Analysis Methods about Proteomics
+
+### Description: 2021年之前的生物信息学相关资源收集和分类
+
+## 1. Bioinformatics Database and Analysis Methods about Proteomics
 
 生物信息分析工具整理2019年- 生信软件工具数据库搜集库
 
@@ -86,7 +85,7 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 25.PIR [https://proteininformationresource.org/pirsf/](https://proteininformationresource.org/pirsf/)
 
-26.PRINTS [www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/](www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/)
+26.PRINTS [www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/](https://github.com/JING-XINXING/Bioinformatics_JINGXINXING/tree/41bf97b623001a8564564ab5a9475a7fd735161d/www.bioinf.manchester.ac.uk/dbbrowser/PRINTS/README.md)
 
 27.SUPFAM [http://supfam.mbu.iisc.ernet.in/](http://supfam.mbu.iisc.ernet.in/)
 
@@ -170,7 +169,7 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 6.LPSN [https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica](https://lpsn.dsmz.de/species/wenyingzhuangia-fucanilytica)
 
-7.bacdive [https://bacdive.dsmz.de/strain/132995](https://bacdive.dsmz.de/strain/132995) 
+7.bacdive [https://bacdive.dsmz.de/strain/132995](https://bacdive.dsmz.de/strain/132995)
 
 8.Orthodb [https://www.orthodb.org/](https://www.orthodb.org/)
 
@@ -184,7 +183,7 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 （1）[https://www.mcponline.org/](https://www.mcponline.org/)
 
-（2）[https://www.sciencedirect.com/journal/journal-of-proteomics/](https://www.sciencedirect.com/journal/journal-of-proteomics/)
+（2）https://www.sciencedirect.com/journal/journal-of-proteomics/
 
 （3）[https://www.proteomics.com.au/](https://www.proteomics.com.au/)
 
