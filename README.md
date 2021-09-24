@@ -41,6 +41,12 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 [http://geneontology.org/](http://geneontology.org/) [https://www.hsls.pitt.edu/obrc/index.php?page=localization\_targeting](https://www.hsls.pitt.edu/obrc/index.php?page=localization_targeting) [http://www.psort.org/](http://www.psort.org/) [https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/subcellular/](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/subcellular/) [http://www.geneinfinity.org/sp/sp\_proteinloc.html](http://www.geneinfinity.org/sp/sp_proteinloc.html)
 
+## Subcellular Localization Prediction Tools
+
+{% embed url="http://bioinformatics.ysu.edu/tools/subcell.html" %}
+
+
+
 12.蛋白ID匹配 [https://biodbnet-abcc.ncifcrf.gov/db/db2db.php](https://biodbnet-abcc.ncifcrf.gov/db/db2db.php)
 
 13.简书博客分享 大佬Lab 瑞士苏黎世联邦理工大学（ETH）Ruedi Aebersold团队 [https://imsb.ethz.ch/research/aebersold.html](https://imsb.ethz.ch/research/aebersold.html) 看看他们发的文章、软件，里面还有不少东西可挖，比如DIA视频课程：[http://dia-swath-course.ethz.ch/videos.html](http://dia-swath-course.ethz.ch/videos.html) 德国马普研究所Matthias Mann团队 [https://www.biochem.mpg.de/en/rd/mann](https://www.biochem.mpg.de/en/rd/mann) [https://www.cpr.ku.dk/research/proteomics/mann-group/](https://www.cpr.ku.dk/research/proteomics/mann-group/) 德国马普研究所Juergen Cox团队 [https://www.biochem.mpg.de/en/rg/cox](https://www.biochem.mpg.de/en/rg/cox) 因MaxQuant和Perseus有名。
