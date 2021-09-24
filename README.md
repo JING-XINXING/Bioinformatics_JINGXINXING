@@ -41,6 +41,8 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 [http://geneontology.org/](http://geneontology.org/) [https://www.hsls.pitt.edu/obrc/index.php?page=localization\_targeting](https://www.hsls.pitt.edu/obrc/index.php?page=localization_targeting) [http://www.psort.org/](http://www.psort.org/) [https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/subcellular/](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/subcellular/) [http://www.geneinfinity.org/sp/sp\_proteinloc.html](http://www.geneinfinity.org/sp/sp_proteinloc.html)
 
+[http://cello.life.nctu.edu.tw/](http://cello.life.nctu.edu.tw/)
+
 ## Subcellular Localization Prediction Tools
 
 {% embed url="http://bioinformatics.ysu.edu/tools/subcell.html" %}
