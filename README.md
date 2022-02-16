@@ -47,8 +47,6 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 {% embed url="http://bioinformatics.ysu.edu/tools/subcell.html" %}
 
-
-
 12.蛋白ID匹配 [https://biodbnet-abcc.ncifcrf.gov/db/db2db.php](https://biodbnet-abcc.ncifcrf.gov/db/db2db.php)
 
 13.简书博客分享 大佬Lab 瑞士苏黎世联邦理工大学（ETH）Ruedi Aebersold团队 [https://imsb.ethz.ch/research/aebersold.html](https://imsb.ethz.ch/research/aebersold.html) 看看他们发的文章、软件，里面还有不少东西可挖，比如DIA视频课程：[http://dia-swath-course.ethz.ch/videos.html](http://dia-swath-course.ethz.ch/videos.html) 德国马普研究所Matthias Mann团队 [https://www.biochem.mpg.de/en/rd/mann](https://www.biochem.mpg.de/en/rd/mann) [https://www.cpr.ku.dk/research/proteomics/mann-group/](https://www.cpr.ku.dk/research/proteomics/mann-group/) 德国马普研究所Juergen Cox团队 [https://www.biochem.mpg.de/en/rg/cox](https://www.biochem.mpg.de/en/rg/cox) 因MaxQuant和Perseus有名。
@@ -207,6 +205,25 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 
 6.生信相关期刊杂志 [https://academic.oup.com/bib](https://academic.oup.com/bib)
 
+7.ScienceDirect [https://www.sciencedirect.com]
+
+8.IEEE [https://www.ieee.org]
+
+9.KAGGLE [https://www.kaggle.com]
+
+10.SPRINGER [https://www.springer.com/cn]
+
+11.JSTOR [https://www.jstor.org]
+
+12.PROQUEST [https://www.proquest.com]
+
+13.Researchgate [https://www.researchgate.net]
+
+14.PubMed [https://pubmed.ncbi.nlm.nih.gov]
+
+15.Web of Science [https://access.clarivate.com/]
+
+16.Sci_hub [https://sci-hub.se]
 六、药理、生物制药
 
 1.PHARMACOLOGY [https://www.guidetopharmacology.org/](https://www.guidetopharmacology.org/)
