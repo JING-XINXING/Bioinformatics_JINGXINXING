@@ -224,6 +224,8 @@ Online Bioinformatics Resources Collection [https://www.hsls.pitt.edu/obrc/](htt
 15.Web of Science [https://access.clarivate.com/]
 
 16.Sci_hub [https://sci-hub.se]
+
+17.Youdao_scholar [https://note.youdao.com/scholar.html]
 六、药理、生物制药
 
 1.PHARMACOLOGY [https://www.guidetopharmacology.org/](https://www.guidetopharmacology.org/)
