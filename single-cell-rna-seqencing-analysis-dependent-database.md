@@ -1,4 +1,4 @@
-# 2.Single cell RNA seqencing Analysis dependent Databases and Analysis Methods
+# 2. Single cell RNA seqencing Analysis dependent Databases and Analysis Methods
 
 ## Single-cell RNA-seq pseudotime estimation algorithms
 
